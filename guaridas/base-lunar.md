@@ -16,6 +16,7 @@ Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si pat
 ## Instalaciones
 
 - Laboratorio de clonación (preparándose para el Proyecto Krypton v3.0)
+- Casa rodante para movimiento extrabasal.
 - Taller de ensamblaje satelital (Glaciar-1 se construye aquí)
 - Módulo de comunicaciones de largo alcance (antena de Brainiac)
 - Invernadero hidropónico (suministro de alimentos limitado)
