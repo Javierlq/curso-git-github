@@ -9,7 +9,8 @@
 ![Último commit](https://img.shields.io/github/last-commit/Javierlq/curso-git-github)
 ![Licencia](https://img.shields.io/github/license/Javierlq/curso-git-github)
 
-# 🦹‍♂️ La Legión del Mal - Desde Remoto Debería Salir El Cambio en GIT
+# 🦹‍♂️ La Legión del Mal - Desde Local y Local
+
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
