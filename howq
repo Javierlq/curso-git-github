@@ -1,0 +1,36 @@
+*   [33m34b5c18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mprimer-tag[m[33m)[m Merge branch 'rama-conflicto'
+[31m|[m[32m\[m  
+[31m|[m * [33md1f9f0d[m chore: agregar nuevos cambios en las coordenadas
+[31m|[m * [33m0573f1d[m feat: agregar coordenadas; actualizar proyecto krypton a v2.0
+* [32m|[m [33m52e99ae[m feat: agregar nueva instalación (casa rodante)
+* [32m|[m [33m1afaf9b[m chore: actualizar proyecto krypton a v3.0
+[32m|[m[32m/[m  
+*   [33mf65d967[m Merge branch 'nuevos-villanos'
+[33m|[m[34m\[m  
+[33m|[m * [33m71c6182[m feat: agregar Darkseid
+[33m|[m * [33med36384[m docs: actualizar notas de villanos
+* [34m|[m [33mbec38c6[m feat: agregar plan escape
+[34m|[m[34m/[m  
+* [33mb393276[m feat: agregar Joker y Harley Quinn
+* [33m6bae281[m feat: agregar villanos
+* [33med0c833[m docs: agregar .env.example y server.log
+* [33m011b9b7[m fix: corregir reglas de .gitignore
+* [33m4634474[m feat: eliminar super-suero
+* [33m0bbda46[m chore: agregar conclusión
+* [33mcd77dd1[m fix: renombrar robo-banco-mundial a robo-banco-metropolis
+* [33m53a5e62[m fix: cambiar nombre de salvar-mundo.md a destruir-mundo.md
+* [33m1744d06[m feat: agregar nuevos pasos
+* [33m1858d0f[m feat: agregar salvar-mundo.md
+* [33m8c31dd3[m feat: agregar plan super-suero.md + descripción
+* [33m253fef0[m docs: agregar al Green Goblin
+* [33m3a80063[m feat: agregar gitignore
+* [33mcbb66f4[m feat: agregar planes
+* [33mbd0a175[m feat: agregar miembros
+* [33m65cdf2d[m feat: agregar perdedores
+* [33mc7f1afb[m feath: agregar guaridas
+* [33mb4b79e4[m feat: agregar misiones.yaml
+* [33m7488927[m docs: instrucciones actualizadas con la nueva organización
+* [33mb471b65[m docs: agregar a Thanos y Magneto
+* [33m2b3a43a[m docs: agregar al Joker
+* [33mbc780d9[m docs: añadir miembros al README
+* [33mc167d23[m first commit
