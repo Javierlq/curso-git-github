@@ -9,7 +9,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/Javierlq/curso-git-github)
 ![Licencia](https://img.shields.io/github/license/Javierlq/curso-git-github)
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde Remoto
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
