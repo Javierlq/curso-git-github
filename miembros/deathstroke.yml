@@ -1,0 +1,74 @@
+#=============================================
+
+#FICHA DE VILLANO - LEGIÓN DEL MAL
+
+#=============================================
+
+nombre: "Deathstroke"
+designacion: "Slade Wilson - El Exterminador"
+universo: "DC"
+rango: "Comandante Táctico y Ejecutor Principal"
+estado: "activo"
+
+perfil:
+identidad_publica: "Slade Wilson. Conocido en el submundo criminal y por agencias de inteligencia, pero un mito urbano para el público general."
+motivacion: "Cumplir el contrato a la perfección. El dinero es importante, pero mantener su reputación como el mercenario más letal del mundo es su verdadera prioridad."
+frase_celebre: "No es nada personal. Solo es un contrato."
+
+habilidades:
+
+- Capacidad cerebral mejorada (procesamiento táctico superior y reflejos acelerados)
+
+- Factor de curación regenerativa (sobrevive a heridas letales para un humano normal)
+
+- Fuerza, agilidad y resistencia sobrehumanas
+
+- Maestría absoluta en combate cuerpo a cuerpo y artes marciales"
+
+- "Dominio experto de cualquier arma de fuego, espada o explosivo"
+
+- "Genio estratega militar capaz de predecir movimientos de metahumanos"
+
+debilidades:
+
+- "Ceguera en el ojo derecho (limita ligeramente su visión periférica, aunque lo compensa)"
+
+- "Su estricto código de honor profesional a veces sabotea los planes más sucios de la Legión"
+
+- "Su trágica y manipulable relación con sus hijos (Rose y Joseph)"
+
+- "Exceso de confianza táctica al enfrentar a héroes jóvenes que considera 'aficionados'"
+
+recursos:
+
+- "Armadura de malla de Promethium (casi indestructible)"
+
+- "Espada larga forjada en Promethium (capaz de absorber energía)"
+
+- "Bastón de combate con ráfagas de energía direccional"
+
+- "Red global de inteligencia e informantes gestionada por su socio, Wintergreen"
+
+- "Arsenal paramilitar infinito y múltiples pisos francos en cada continente"
+
+rol_en_la_legion: |
+  Deathstroke es el brazo armado y el arquitecto táctico de la Legión.
+  Mientras Brainiac maneja la guerra cibernética, Slade diseña las emboscadas
+  físicas y lidera los equipos de asalto contra la Liga de la Justicia o los Titanes.
+  Se unió a la Legión bajo un contrato multimillonario financiado directamente
+  por Lex Luthor. No le interesa la dominación mundial ni la ideología, solo
+  ejecutar el trabajo y cobrar el cheque.
+
+rivalidad_principal: "Batman (y Nightwing)"
+guarida_asignada: "Instalación de Entrenamiento Paramilitar (Sector C)"
+misiones_completadas: 84
+misiones_fallidas: 1
+
+notas_confidenciales: |
+  A diferencia del resto de la Legión, Slade se mantiene estrictamente profesional.
+  No soporta la teatralidad de los demás villanos y amenazó abiertamente con
+  decapitar al Joker si volvía a tocar su armería. Lex Luthor confía en él porque
+  Deathstroke jamás rompe un contrato vigente. Sin embargo, existe una cláusula
+  estricta y no negociable: la Legión tiene prohibido acercarse a su familia.
+  Slade ha dejado muy claro que matará a cualquier aliado que ponga a sus hijos
+  en la línea de fuego.

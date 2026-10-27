@@ -7,6 +7,9 @@
 5. Joker
 6. Harley Quinn
 7. Darkseid
+8. Bizarro
+9. Pyro
+10. Deathstroke
 
 # Notas
 
